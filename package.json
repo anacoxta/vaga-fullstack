@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/anacoxta/vaga-fullstack#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "mongoose": "^5.5.3",
+    "vue": "^2.6.10"
   }
-}
+}dd
